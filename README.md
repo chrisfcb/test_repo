@@ -1,6 +1,8 @@
 # Example Repository
 This is an exaple repo, hello world!
 
+git clone https://....
+
 cd C:/...
 git status
 git add FILENAME
